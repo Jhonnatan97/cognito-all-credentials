@@ -1,0 +1,1 @@
+O objetivo desse script é listar todos os ClientID 
